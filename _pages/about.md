@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About
-<!-- <div id=""></div> -->
+<!-- ## About -->
+<div id="">About</div>
 
 I am **Ravindu Tharanga Perera**, a Master of Science graduate in **Computer Science** from **Clemson University** with a concentration in **Data Science and Machine Learning**.  
 I’m passionate about building **AI-driven and cloud-native solutions** that integrate intelligent automation into real-world systems.
