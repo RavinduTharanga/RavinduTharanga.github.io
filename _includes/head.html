@@ -19,3 +19,15 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<script>
+  // Disable browser scroll restoration
+  if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+  }
+
+  // Always start at the top when the page loads
+  window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+  };
+</script>
