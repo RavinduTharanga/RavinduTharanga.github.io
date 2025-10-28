@@ -19,19 +19,25 @@ Currently, I’m expanding my portfolio through hands-on **AWS Cloud Engineering
  
 ## News
 <div id=""></div>
+
+- **Ongoing:** Exploring AI-powered cloud monitoring and serverless portfolio automation projects.
+- **August 2025:** Joined HAIE Lab as a research Assistant. 
 - **May 2025:** Graduated 🎓 from Clemson University (M.S. Computer Science).  
+- **April 2024:** Join As a Data Visulization teaching assitant in Clemson University Libraries.  
 - **April 2024:** Presented three papers at **CHIWORK 2024** on AI-powered task management and multiscreen interaction.  
 - **November 2024:** Published *AI Assistants in the Workplace* at **ACM MexIHC 2024**.  
-- **March 2024 – Present:** Working on an **AWS Data Pipeline** project integrating Reddit → S3 → Snowflake → Power BI.  
-- **Ongoing:** Exploring AI-powered cloud monitoring and serverless portfolio automation projects.
+- **September 2023** Started to working as volunteer researcher in Clemson University.
+- **September 2022** Started to working as volunteer researcher in Clemson University.
+- **August 2022** Moved to United States.
+
 
 
 
 ## Research Vision
 <div id=""></div>
 
-## Publications
-<div id="publications"></div>
+## <a id="publications"></a>Publications
+
 
 <!-- - [2024] *AI Assistants in the Workplace: Goal-Oriented Recommendations Using LLM.* ACM MexIHC 2024.  
 - [2024] *Assessing the Task Management Capabilities of LLM-Powered Agents.* CHIWORK 24. -->
