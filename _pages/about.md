@@ -55,3 +55,51 @@ Currently, I’m expanding my portfolio through hands-on **AWS Cloud Engineering
 
 4. **Perera, R., et al. (2024).** *SmartMonitor: Edge-Based Activity Monitoring from Visual Input.*  
    *CHIWORK 2024 Proceedings.*
+
+
+## <a id="projects"></a>Projects
+
+
+<div class="project-list">
+
+  <div class="project-card">
+    <img src="images/projects/ai-assistant.jpg" alt="AI Assistant Project">
+    <div class="project-info">
+      <h3>🎯 AI Assistant for Workplace Productivity</h3>
+      <p>Developed an LLM-powered task assistant capable of intelligent task management and natural language recommendations.</p>
+      <p><strong>Tech:</strong> Python · LangChain · GPT-4 · Flask</p>
+      <a href="https://github.com/RavinduTharanga/ai-assistant" target="_blank">View on GitHub →</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="images/projects/reddit-pipeline.jpg" alt="Reddit Data Pipeline">
+    <div class="project-info">
+      <h3>📊 Cloud-Based Reddit Data Pipeline</h3>
+      <p>Designed an ETL system extracting Reddit data, storing in S3, loading to Snowflake, and visualizing in Power BI.</p>
+      <p><strong>Tech:</strong> AWS S3 · Snowflake · Python · Power BI</p>
+      <a href="https://github.com/RavinduTharanga/reddit-data-pipeline" target="_blank">View on GitHub →</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="images/projects/smartmonitor.jpg" alt="SmartMonitor">
+    <div class="project-info">
+      <h3>🧠 SmartMonitor: Edge-Based Activity Recognition</h3>
+      <p>Implemented YOLOv8 and OpenCV for real-time human activity detection and edge-device optimization.</p>
+      <p><strong>Tech:</strong> Python · YOLOv8 · OpenCV · Edge AI</p>
+      <a href="https://github.com/RavinduTharanga/smartmonitor" target="_blank">View on GitHub →</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="images/projects/website.jpg" alt="Portfolio Website">
+    <div class="project-info">
+      <h3>🌐 Personal Academic Website</h3>
+      <p>Developed this portfolio using Jekyll and GitHub Pages, featuring custom smooth scrolling and responsive design.</p>
+      <p><strong>Tech:</strong> Jekyll · HTML · CSS · GitHub Pages</p>
+      <a href="https://ravindutharanga.github.io" target="_blank">Visit Site →</a>
+    </div>
+  </div>
+
+</div>
