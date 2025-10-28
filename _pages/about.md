@@ -1,12 +1,12 @@
 ---
 permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About
+## Who I am
 <div id=""></div>
 
 I am **Ravindu Tharanga Perera**, a Master of Science graduate in **Computer Science** from **Clemson University** with a concentration in **Data Science and Machine Learning**.  
