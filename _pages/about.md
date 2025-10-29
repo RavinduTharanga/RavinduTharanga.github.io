@@ -14,8 +14,8 @@ redirect_from:
  <br><br>
 Previously, I was a graduate research assistant in the Human AI Empowerment Lab under Dr. Carlos Toxtli. I was also fortunate to conduct research in **Human-AI collaboration**, **LLM-powered assistants**, and **AI-enhanced XR workspaces** under the supervision of **Dr. Carlos Toxtli** at the *Human-AI Empowerment Lab*, Clemson School of Computing.   -->
  
- <p style="text-align: justify;">I am currently working as a Research Assistant in the <b><i>Human-AI Empowerment Lab </i></b>under <b>Dr. Carlos Toxtli Hernández</b>. I received my master's degree at the School of Computing at <b>Clemson University</b> with a concentration in <b>Data Science and Machine Learning</b>.
-Previously, I was a graduate research assistant in the Human-AI Empowerment Lab under Dr. Carlos Toxtli. I was also fortunate to conduct research in <b>Human-AI collaboration</b>, <b>LLM-powered assistants</b>, and <b>AI-enhanced XR workspaces.</b> Before that, I received undergraduate degrees in Chemistry from the Inistitute of Chemistry Ceylon in Sri Lanka.
+ <p style="text-align: justify;">I am currently working as a research assistant in the <b><i>Human-AI Empowerment Lab </i></b>under <b>Dr. Carlos Toxtli Hernández</b>. I received my master's degree at the School of Computing at <b>Clemson University</b> with a concentration in <b>Data Science and Machine Learning</b>.
+Previously, I was a graduate research assistant in the Human-AI Empowerment Lab under Dr. Carlos Toxtli. I was also fortunate to conduct research in <b>Human-AI collaborations</b>, <b>LLM-powered assistants</b>, and <b>AI-enhanced XR workspaces.</b> Before that, I received an undergraduate degree in Chemistry from the Inistitute of Chemistry Ceylon in Sri Lanka.
 </p>
 
 
@@ -45,7 +45,7 @@ My long-term research vision is to develop AI-driven systems that are self-adapt
 
 <li>
 <b>Perera, R.</b>, &amp; Toxtli, C. (2024). <i>AI Assistants in the Workplace: Goal-Oriented Recommendations Using LLM.</i>  
-Tenth Mexican International Conference on Human-Computer Interaction (<b>ACM MexIHC 2024</b>), Association for Computing Machinery, Sinaloa, Mexico.  
+Tenth Mexican International Conference on Human-Computer Interaction (ACM MexIHC 2024), Association for Computing Machinery, Sinaloa, Mexico.  
 <a href="https://doi.org/10.47756/aihc.y9i1.140" style="color:#1a73e8;">https://doi.org/10.47756/aihc.y9i1.140</a>
 </li>
 <br>
