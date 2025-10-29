@@ -25,10 +25,10 @@ Previously, I was a graduate research assistant in the Human-AI Empowerment Lab 
 - **Ongoing:** Developing a multi-task bert and roberta NLP models for thematic analysis of AI-focused communities of practice. 
 - **August 2025:** Joined HAIE Lab as a research Assistant.
 - **May 2025:** Graduated 🎓 from Clemson University (M.S. Computer Science).  
-- **April 2024:** Join as a Data Visualization teaching assistant at Clemson University Libraries. 
+- **May 2024:** Join as a Data Visualization teaching assistant at Clemson University Libraries. 
 - **April 2024:**  Presented three papers at **CHIWORK 2024** on AI-powered task management and multiscreen interaction. 
 - **November 2024:**  Published AI Assistants in the Workplace at **ACM MexIHC 2024**.  
-- **September 2023:** Started working as a graduate research assistant in the Human-AI Empowerment Lab at Clemson University.
+- **August 2023:** Started working as a graduate research assistant in the Human-AI Empowerment Lab at Clemson University.
 - **September 2022:** Started working as a volunteer researcher at Clemson University.
 - **August 2022:** Moved to The United States.
 
