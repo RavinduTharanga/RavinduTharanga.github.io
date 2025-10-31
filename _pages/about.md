@@ -39,9 +39,16 @@ Previously, I was a graduate research assistant in the Human-AI Empowerment Lab 
 <div id=""></div>
 My long-term research vision is to develop AI-driven systems that are self-adaptive to new environments based on investigating how various individuals, teams, and organizations engage with emerging AI technologies.
 
-## <a id="publications"></a>Publications
+<!-- ## <a id="publications"></a>Publications
 
 <ol style="line-height:1.6; padding-left:20px;">
+
+<li>
+<b>Perera, R.</b>, &amp; Toxtli, C. (2024). <i>Exploring AI-Enhanced Multi-Screen Interaction in Extended Reality Workspaces.</i>  
+CHIWORK 24: Proceedings of the 3rd Symposium on Human-Computer Interaction for Work, Association for Computing Machinery.  
+<a href="https://doi.org/10.13140/RG.2.2.31604.36481" style="color:#1a73e8;">https://doi.org/10.13140/RG.2.2.31604.36481</a>
+</li>
+<br>
 
 <li>
 <b>Perera, R.</b>, &amp; Toxtli, C. (2024). <i>AI Assistants in the Workplace: Goal-Oriented Recommendations Using LLM.</i>  
@@ -57,17 +64,48 @@ CHIWORK 24: Proceedings of the 3rd Symposium on Human-Computer Interaction for W
 </li>
 <br>
 
+
+
+<li>
+Fan, W., <b>Perera, R.</b>, &amp; Toxtli, C. (2024). <i>SmartMonitor: Edge-Based Activity Monitoring from Visual Input.</i>  
+CHIWORK 24: Proceedings of the 3rd Symposium on Human-Computer Interaction for Work, Association for Computing Machinery.  
+<a href="https://doi.org/10.13140/RG.2.2.20165.46561" style="color:#1a73e8;">https://doi.org/10.13140/RG.2.2.20165.46561</a>
+</li>
+
+</ol> -->
+## <a id="publications"></a>Publications
+
+<ol style="line-height:1.6; padding-left:20px;">
+
 <li>
 <b>Perera, R.</b>, &amp; Toxtli, C. (2024). <i>Exploring AI-Enhanced Multi-Screen Interaction in Extended Reality Workspaces.</i>  
 CHIWORK 24: Proceedings of the 3rd Symposium on Human-Computer Interaction for Work, Association for Computing Machinery.  
-<a href="https://doi.org/10.13140/RG.2.2.31604.36481" style="color:#1a73e8;">https://doi.org/10.13140/RG.2.2.31604.36481</a>
+<a href="https://www.researchgate.net/publication/381430214_Exploring_AI-Enhanced_Multi-Screen_Interaction_in_Extended_Reality_Workspaces" style="color:#1a73e8;">[Paper]</a> &nbsp; 
+<a href="https://drive.google.com/file/d/1NPQXLr1LVEOMPo6KDQt9uTBN157VRqc3/view?usp=sharing" style="color:#1a73e8;">[Demo]</a>
+</li>
+<br>
+
+<li>
+<b>Perera, R.</b>, &amp; Toxtli, C. (2024). <i>AI Assistants in the Workplace: Goal-Oriented Recommendations Using LLM.</i>  
+Tenth Mexican International Conference on Human-Computer Interaction (ACM MexIHC 2024), Association for Computing Machinery, Sinaloa, Mexico.  
+<a href="https://doi.org/10.47756/aihc.y9i1.140" style="color:#1a73e8;">[Paper]</a> &nbsp;
+
+</li>
+<br>
+
+<li>
+<b>Perera, R.</b>, Ravi, A., &amp; Toxtli, C. (2024). <i>Assessing the Task Management Capabilities of LLM-Powered Agents.</i>  
+CHIWORK 24: Proceedings of the 3rd Symposium on Human-Computer Interaction for Work, Association for Computing Machinery.  
+<a href="https://www.researchgate.net/publication/381429983_Assessing_the_Task_Management_Capabilities_of_LLM-Powered_Agents" style="color:#1a73e8;">[Paper]</a> &nbsp;
+
 </li>
 <br>
 
 <li>
 Fan, W., <b>Perera, R.</b>, &amp; Toxtli, C. (2024). <i>SmartMonitor: Edge-Based Activity Monitoring from Visual Input.</i>  
 CHIWORK 24: Proceedings of the 3rd Symposium on Human-Computer Interaction for Work, Association for Computing Machinery.  
-<a href="https://doi.org/10.13140/RG.2.2.20165.46561" style="color:#1a73e8;">https://doi.org/10.13140/RG.2.2.20165.46561</a>
+<a href="https://doi.org/10.13140/RG.2.2.20165.46561" style="color:#1a73e8;">[Paper]</a> &nbsp;
+
 </li>
 
 </ol>
