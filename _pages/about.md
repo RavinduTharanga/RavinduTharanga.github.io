@@ -14,8 +14,21 @@ redirect_from:
  <br><br>
 Previously, I was a graduate research assistant in the Human AI Empowerment Lab under Dr. Carlos Toxtli. I was also fortunate to conduct research in **Human-AI collaboration**, **LLM-powered assistants**, and **AI-enhanced XR workspaces** under the supervision of **Dr. Carlos Toxtli** at the *Human-AI Empowerment Lab*, Clemson School of Computing.   -->
  
- <p style="text-align: justify;">I am currently working as a volunteer research assistant in the <b><i>Human-AI Empowerment Lab </i></b>under <b>Dr. Carlos Toxtli Hernández</b>. I received my master's degree at the School of Computing at <b>Clemson University</b> with a concentration in <b>Data Science and Machine Learning</b>.
+ <!-- <p style="text-align: justify;">I am currently working as a volunteer research assistant in the <b><i>Human-AI Empowerment Lab </i></b>under <b>Dr. Carlos Toxtli Hernández</b>. I received my master's degree at the School of Computing at <b>Clemson University</b> with a concentration in <b>Data Science and Machine Learning</b>.
 Previously, I was a graduate research assistant in the Human-AI Empowerment Lab under Dr. Carlos Toxtli. I was also fortunate to conduct research in <b>Human-AI collaborations</b>, <b>LLM-powered assistants</b>, and <b>AI-enhanced XR workspaces.</b> Before that, I received an undergraduate degree in Chemistry from the Inistitute of Chemistry Ceylon in Sri Lanka.
+</p> -->
+<p style="text-align: justify;">
+I am currently working as a volunteer research assistant in the 
+<b><i><a href="https://haielab.org/" target="_blank">Human-AI Empowerment Lab</a></i></b> 
+under <b><a href="https://www.carlostoxtli.com/" target="_blank">Dr. Carlos Toxtli Hernández</a></b>. 
+I received my master's degree from the School of Computing at 
+<b>Clemson University</b> with a concentration in <b>Data Science and Machine Learning</b>. 
+Previously, I was a graduate research assistant in the 
+<a href="https://haielab.org/" target="_blank"><b><i>Human-AI Empowerment Lab</i></b></a> 
+under Dr. Toxtli. I was also fortunate to conduct research in 
+<b>Human-AI collaborations</b>, <b>LLM-powered assistants</b>, and 
+<b>AI-enhanced XR workspaces</b>. Before that, I received an undergraduate degree in Chemistry from the 
+<b>Institute of Chemistry Ceylon</b> in Sri Lanka.
 </p>
 
 
